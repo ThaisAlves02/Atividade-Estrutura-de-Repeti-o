@@ -18,7 +18,6 @@ for i in range(1,11):
 
     
     if num <= 10:
-        print(f"Tabuada de {num}")
         calc = (num * i)
         tabuada = f"""{num} X {i} = {calc}"""
         print(tabuada)
